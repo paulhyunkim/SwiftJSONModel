@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   
   s.name = 'SwiftJSONModel'
-  s.version = '0.9.0'
+  s.version = '0.9.1'
   s.license = 'mobileforming'
   s.summary = 'Swift JSON Model'
   s.homepage = 'mobileforming.com'
